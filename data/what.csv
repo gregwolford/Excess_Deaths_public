@@ -1,0 +1,188 @@
+,Week Ending Date,State,Observed Number,Upper Bound Threshold,Exceeds Threshold,Average Expected Count,Excess Lower Estimate,Excess Higher Estimate,Year,Total Excess Lower Estimate in 2020,Total Excess Higher Estimate in 2020,Percent Excess Lower Estimate,Percent Excess Higher Estimate,Type,Outcome,Suppress,Note,Lower Bound Threshold,Observed Exceed Expected
+8740,2017-01-14,United States,61114.0,60526.0,True,57497.0,588.0,3617.0,2017,192767,252307,0.0,0.1,Predicted (weighted),All causes,,,54468.0,3617.0
+8741,2017-01-21,United States,59444.0,60800.0,False,57871.0,0.0,1573.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54942.0,1573.0
+8742,2017-01-28,United States,58186.0,60619.0,False,58376.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56133.0,-190.0
+8743,2017-02-04,United States,58537.0,60386.0,False,58187.0,0.0,350.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55988.0,350.0
+8744,2017-02-11,United States,59175.0,60179.0,False,57874.0,0.0,1301.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55569.0,1301.0
+8745,2017-02-18,United States,58591.0,59944.0,False,57662.0,0.0,929.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55380.0,929.0
+8746,2017-02-25,United States,58385.0,59499.0,False,57452.0,0.0,933.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55405.0,933.0
+8747,2017-03-04,United States,57359.0,59147.0,False,57140.0,0.0,219.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55133.0,219.0
+8748,2017-03-11,United States,57597.0,58773.0,False,56708.0,0.0,889.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54643.0,889.0
+8749,2017-03-18,United States,56790.0,58478.0,False,56374.0,0.0,416.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54270.0,416.0
+8750,2017-03-25,United States,57161.0,58104.0,False,56003.0,0.0,1158.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53902.0,1158.0
+8751,2017-04-01,United States,55828.0,57367.0,False,55543.0,0.0,285.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53719.0,285.0
+8752,2017-04-08,United States,55267.0,56928.0,False,55074.0,0.0,193.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53220.0,193.0
+8753,2017-04-15,United States,54969.0,56528.0,False,54558.0,0.0,411.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52588.0,411.0
+8754,2017-04-22,United States,53168.0,56180.0,False,54150.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52120.0,-982.0
+8755,2017-04-29,United States,53404.0,55637.0,False,53700.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51763.0,-296.0
+8756,2017-05-06,United States,52761.0,54773.0,False,53046.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51319.0,-285.0
+8757,2017-05-13,United States,52076.0,54370.0,False,52630.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50890.0,-554.0
+8758,2017-05-20,United States,52575.0,54059.0,False,52244.0,0.0,331.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50429.0,331.0
+8759,2017-05-27,United States,51100.0,53850.0,False,51917.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49984.0,-817.0
+8760,2017-06-03,United States,51375.0,53432.0,False,51549.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49666.0,-174.0
+8761,2017-06-10,United States,51534.0,53138.0,False,51449.0,0.0,85.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49760.0,85.0
+8762,2017-06-17,United States,50933.0,53000.0,False,51277.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49554.0,-344.0
+8763,2017-06-24,United States,51317.0,53090.0,False,51233.0,0.0,84.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49376.0,84.0
+8764,2017-07-01,United States,50742.0,53053.0,False,51118.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49183.0,-376.0
+8765,2017-07-08,United States,51101.0,52969.0,False,51049.0,0.0,52.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49129.0,52.0
+8766,2017-07-15,United States,50122.0,52880.0,False,51038.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49196.0,-916.0
+8767,2017-07-22,United States,50230.0,52882.0,False,50992.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49102.0,-762.0
+8768,2017-07-29,United States,49494.0,52927.0,False,50913.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,48899.0,-1419.0
+8769,2017-08-05,United States,50210.0,52817.0,False,50814.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,48811.0,-604.0
+8770,2017-08-12,United States,50364.0,52756.0,False,50821.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,48886.0,-457.0
+8771,2017-08-19,United States,50296.0,52716.0,False,50825.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,48934.0,-529.0
+8772,2017-08-26,United States,49659.0,52869.0,False,50936.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49003.0,-1277.0
+8773,2017-09-02,United States,50967.0,53063.0,False,51019.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,48975.0,-52.0
+8774,2017-09-09,United States,51111.0,53175.0,False,51166.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49157.0,-55.0
+8775,2017-09-16,United States,51820.0,53310.0,False,51363.0,0.0,457.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49416.0,457.0
+8776,2017-09-23,United States,51358.0,53663.0,False,51746.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49829.0,-388.0
+8777,2017-09-30,United States,51462.0,54055.0,False,52080.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50105.0,-618.0
+8778,2017-10-07,United States,52250.0,54479.0,False,52467.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50455.0,-217.0
+8779,2017-10-14,United States,51703.0,54934.0,False,52829.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50724.0,-1126.0
+8780,2017-10-21,United States,52357.0,55173.0,False,53159.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51145.0,-802.0
+8781,2017-10-28,United States,52672.0,55385.0,False,53371.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51357.0,-699.0
+8782,2017-11-04,United States,53822.0,55659.0,False,53677.0,0.0,145.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51695.0,145.0
+8783,2017-11-11,United States,53384.0,56031.0,False,53981.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51931.0,-597.0
+8784,2017-11-18,United States,53909.0,56475.0,False,54408.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52341.0,-499.0
+8785,2017-11-25,United States,54235.0,57215.0,False,55129.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53043.0,-894.0
+8786,2017-12-02,United States,54904.0,57702.0,False,55615.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53528.0,-711.0
+8787,2017-12-09,United States,55746.0,58372.0,False,56232.0,0.0,0.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54092.0,-486.0
+8788,2017-12-16,United States,57538.0,58760.0,False,56702.0,0.0,836.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54644.0,836.0
+8789,2017-12-23,United States,59674.0,59433.0,True,57372.0,241.0,2302.0,2017,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55311.0,2302.0
+8790,2017-12-30,United States,61261.0,60253.0,True,58149.0,1008.0,3112.0,2017,192767,252307,0.0,0.1,Predicted (weighted),All causes,,,56045.0,3112.0
+8791,2018-01-06,United States,66317.0,61265.0,True,59110.0,5052.0,7207.0,2018,192767,252307,0.1,0.1,Predicted (weighted),All causes,,,56955.0,7207.0
+8792,2018-01-13,United States,67664.0,61878.0,True,59689.0,5786.0,7975.0,2018,192767,252307,0.1,0.1,Predicted (weighted),All causes,,,57500.0,7975.0
+8793,2018-01-20,United States,64820.0,62434.0,True,60215.0,2386.0,4605.0,2018,192767,252307,0.0,0.1,Predicted (weighted),All causes,,,57996.0,4605.0
+8794,2018-01-27,United States,62944.0,62081.0,True,59944.0,863.0,3000.0,2018,192767,252307,0.0,0.1,Predicted (weighted),All causes,,,57807.0,3000.0
+8795,2018-02-03,United States,61124.0,61858.0,False,59730.0,0.0,1394.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57602.0,1394.0
+8796,2018-02-10,United States,61243.0,61638.0,False,59488.0,0.0,1755.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57338.0,1755.0
+8797,2018-02-17,United States,59932.0,61454.0,False,59191.0,0.0,741.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56928.0,741.0
+8798,2018-02-24,United States,57954.0,61183.0,False,59038.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56893.0,-1084.0
+8799,2018-03-03,United States,56829.0,60772.0,False,58625.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56478.0,-1796.0
+8800,2018-03-10,United States,57226.0,60366.0,False,58259.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56152.0,-1033.0
+8801,2018-03-17,United States,56462.0,59953.0,False,57821.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55689.0,-1359.0
+8802,2018-03-24,United States,55930.0,59471.0,False,57305.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55139.0,-1375.0
+8803,2018-03-31,United States,55045.0,58796.0,False,56771.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54746.0,-1726.0
+8804,2018-04-07,United States,55420.0,58223.0,False,56241.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54259.0,-821.0
+8805,2018-04-14,United States,55355.0,57588.0,False,55616.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53644.0,-261.0
+8806,2018-04-21,United States,54152.0,57198.0,False,55142.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53086.0,-990.0
+8807,2018-04-28,United States,53853.0,56641.0,False,54609.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52577.0,-756.0
+8808,2018-05-05,United States,53874.0,55982.0,False,54081.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52180.0,-207.0
+8809,2018-05-12,United States,52227.0,55440.0,False,53581.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51722.0,-1354.0
+8810,2018-05-19,United States,50739.0,55125.0,False,53222.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51319.0,-2483.0
+8811,2018-05-26,United States,51055.0,54894.0,False,52893.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50892.0,-1838.0
+8812,2018-06-02,United States,51162.0,54478.0,False,52477.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50476.0,-1315.0
+8813,2018-06-09,United States,52123.0,54128.0,False,52270.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50412.0,-147.0
+8814,2018-06-16,United States,51514.0,53970.0,False,52138.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50306.0,-624.0
+8815,2018-06-23,United States,51230.0,53970.0,False,52083.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50196.0,-853.0
+8816,2018-06-30,United States,50995.0,54028.0,False,52040.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50052.0,-1045.0
+8817,2018-07-07,United States,51812.0,53863.0,False,51831.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49799.0,-19.0
+8818,2018-07-14,United States,51347.0,53691.0,False,51695.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49699.0,-348.0
+8819,2018-07-21,United States,50731.0,53802.0,False,51722.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49642.0,-991.0
+8820,2018-07-28,United States,50422.0,53712.0,False,51514.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49316.0,-1092.0
+8821,2018-08-04,United States,50799.0,53973.0,False,51638.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49303.0,-839.0
+8822,2018-08-11,United States,51130.0,53725.0,False,51501.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49277.0,-371.0
+8823,2018-08-18,United States,50435.0,53775.0,False,51486.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49197.0,-1051.0
+8824,2018-08-25,United States,50577.0,54100.0,False,51811.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49522.0,-1234.0
+8825,2018-09-01,United States,50745.0,54099.0,False,51770.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49441.0,-1025.0
+8826,2018-09-08,United States,50429.0,54506.0,False,52002.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49498.0,-1573.0
+8827,2018-09-15,United States,51222.0,54625.0,False,52177.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49729.0,-955.0
+8828,2018-09-22,United States,51713.0,54779.0,False,52306.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49833.0,-593.0
+8829,2018-09-29,United States,51098.0,55285.0,False,52757.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50229.0,-1659.0
+8830,2018-10-06,United States,52486.0,55382.0,False,52895.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50408.0,-409.0
+8831,2018-10-13,United States,51972.0,55697.0,False,53216.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50735.0,-1244.0
+8832,2018-10-20,United States,53124.0,56185.0,False,53609.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51033.0,-485.0
+8833,2018-10-27,United States,53881.0,56297.0,False,53870.0,0.0,11.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51443.0,11.0
+8834,2018-11-03,United States,53767.0,56498.0,False,53975.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51452.0,-208.0
+8835,2018-11-10,United States,53692.0,57108.0,False,54540.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51972.0,-848.0
+8836,2018-11-17,United States,54837.0,57377.0,False,54828.0,0.0,9.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52279.0,9.0
+8837,2018-11-24,United States,54981.0,57839.0,False,55308.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52777.0,-327.0
+8838,2018-12-01,United States,55210.0,58497.0,False,55960.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53423.0,-750.0
+8839,2018-12-08,United States,56095.0,59057.0,False,56448.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53839.0,-353.0
+8840,2018-12-15,United States,56530.0,59885.0,False,57279.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54673.0,-749.0
+8841,2018-12-22,United States,56689.0,60869.0,False,58256.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55643.0,-1567.0
+8842,2018-12-29,United States,56163.0,61845.0,False,59287.0,0.0,0.0,2018,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56729.0,-3124.0
+8843,2019-01-05,United States,58461.0,62597.0,False,59943.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57289.0,-1482.0
+8844,2019-01-12,United States,58517.0,64024.0,False,61261.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58498.0,-2744.0
+8845,2019-01-19,United States,58351.0,64201.0,False,61542.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58883.0,-3191.0
+8846,2019-01-26,United States,58031.0,64215.0,False,61607.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58999.0,-3576.0
+8847,2019-02-02,United States,58285.0,63297.0,False,60833.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58369.0,-2548.0
+8848,2019-02-09,United States,58650.0,63162.0,False,60640.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58118.0,-1990.0
+8849,2019-02-16,United States,58116.0,62625.0,False,60120.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57615.0,-2004.0
+8850,2019-02-23,United States,58132.0,62228.0,False,59800.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57372.0,-1668.0
+8851,2019-03-02,United States,58071.0,61685.0,False,59341.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56997.0,-1270.0
+8852,2019-03-09,United States,58665.0,61159.0,False,58869.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56579.0,-204.0
+8853,2019-03-16,United States,58033.0,60696.0,False,58368.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56040.0,-335.0
+8854,2019-03-23,United States,57214.0,60231.0,False,57930.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55629.0,-716.0
+8855,2019-03-30,United States,56772.0,59580.0,False,57398.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55216.0,-626.0
+8856,2019-04-06,United States,56710.0,59191.0,False,56924.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54657.0,-214.0
+8857,2019-04-13,United States,55625.0,58520.0,False,56292.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54064.0,-667.0
+8858,2019-04-20,United States,54584.0,57959.0,False,55779.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53599.0,-1195.0
+8859,2019-04-27,United States,53783.0,57407.0,False,55234.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53061.0,-1451.0
+8860,2019-05-04,United States,54129.0,56678.0,False,54612.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52546.0,-483.0
+8861,2019-05-11,United States,53600.0,56256.0,False,54073.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51890.0,-473.0
+8862,2019-05-18,United States,53676.0,55818.0,False,53639.0,0.0,37.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51460.0,37.0
+8863,2019-05-25,United States,53822.0,55391.0,False,53281.0,0.0,541.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51171.0,541.0
+8864,2019-06-01,United States,52856.0,55190.0,False,53076.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50962.0,-220.0
+8865,2019-06-08,United States,53292.0,54944.0,False,52929.0,0.0,363.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50914.0,363.0
+8866,2019-06-15,United States,52789.0,55037.0,False,52878.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50719.0,-89.0
+8867,2019-06-22,United States,52419.0,55032.0,False,52861.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50690.0,-442.0
+8868,2019-06-29,United States,52320.0,54847.0,False,52701.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50555.0,-381.0
+8869,2019-07-06,United States,52498.0,54702.0,False,52524.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50346.0,-26.0
+8870,2019-07-13,United States,52070.0,54306.0,False,52343.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50380.0,-273.0
+8871,2019-07-20,United States,51800.0,54389.0,False,52242.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50095.0,-442.0
+8872,2019-07-27,United States,51800.0,54341.0,False,52082.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49823.0,-282.0
+8873,2019-08-03,United States,51542.0,54211.0,False,51978.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49745.0,-436.0
+8874,2019-08-10,United States,51847.0,54102.0,False,51883.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49664.0,-36.0
+8875,2019-08-17,United States,51128.0,54103.0,False,51964.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49825.0,-836.0
+8876,2019-08-24,United States,51141.0,54243.0,False,52013.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49783.0,-872.0
+8877,2019-08-31,United States,51286.0,54500.0,False,52157.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49814.0,-871.0
+8878,2019-09-07,United States,51963.0,54637.0,False,52297.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,49957.0,-334.0
+8879,2019-09-14,United States,51740.0,54866.0,False,52525.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50184.0,-785.0
+8880,2019-09-21,United States,51905.0,54976.0,False,52761.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50546.0,-856.0
+8881,2019-09-28,United States,52869.0,55344.0,False,53131.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,50918.0,-262.0
+8882,2019-10-05,United States,52680.0,55712.0,False,53402.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51092.0,-722.0
+8883,2019-10-12,United States,53218.0,56075.0,False,53729.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51383.0,-511.0
+8884,2019-10-19,United States,54435.0,56616.0,False,54146.0,0.0,289.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,51676.0,289.0
+8885,2019-10-26,United States,54154.0,56708.0,False,54371.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52034.0,-217.0
+8886,2019-11-02,United States,54206.0,56916.0,False,54646.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52376.0,-440.0
+8887,2019-11-09,United States,55800.0,57276.0,False,55026.0,0.0,774.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52776.0,774.0
+8888,2019-11-16,United States,56030.0,57814.0,False,55353.0,0.0,677.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,52892.0,677.0
+8889,2019-11-23,United States,56327.0,58155.0,False,55786.0,0.0,541.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,53417.0,541.0
+8890,2019-11-30,United States,55591.0,58970.0,False,56499.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54028.0,-908.0
+8891,2019-12-07,United States,57417.0,59250.0,False,56857.0,0.0,560.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,54464.0,560.0
+8892,2019-12-14,United States,57772.0,59898.0,False,57522.0,0.0,250.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55146.0,250.0
+8893,2019-12-21,United States,57575.0,60454.0,False,58111.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,55768.0,-536.0
+8894,2019-12-28,United States,58630.0,61535.0,False,59080.0,0.0,0.0,2019,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,56625.0,-450.0
+8895,2020-01-04,United States,60115.0,61899.0,False,59476.0,0.0,639.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57053.0,639.0
+8896,2020-01-11,United States,60667.0,62498.0,False,59992.0,0.0,675.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57486.0,675.0
+8897,2020-01-18,United States,59289.0,62544.0,False,60230.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,57916.0,-941.0
+8898,2020-01-25,United States,59084.0,62608.0,False,60346.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,,58084.0,-1262.0
+8899,2020-02-01,United States,58738.0,62066.0,False,59900.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",57734.0,-1162.0
+8900,2020-02-08,United States,59311.0,61896.0,False,59745.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",57594.0,-434.0
+8901,2020-02-15,United States,58730.0,61734.0,False,59552.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",57370.0,-822.0
+8902,2020-02-22,United States,58810.0,61380.0,False,59272.0,0.0,0.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",57164.0,-462.0
+8903,2020-02-29,United States,59207.0,60939.0,False,58858.0,0.0,349.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",56777.0,349.0
+8904,2020-03-07,United States,59524.0,60656.0,False,58567.0,0.0,957.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",56478.0,957.0
+8905,2020-03-14,United States,58373.0,60267.0,False,58197.0,0.0,176.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",56127.0,176.0
+8906,2020-03-21,United States,59379.0,59940.0,False,57832.0,0.0,1547.0,2020,192767,252307,0.0,0.0,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",55724.0,1547.0
+8907,2020-03-28,United States,63260.0,59387.0,True,57361.0,3873.0,5899.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",55335.0,5899.0
+8908,2020-04-04,United States,72599.0,58727.0,True,56809.0,13872.0,15790.0,2020,192767,252307,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",54891.0,15790.0
+8909,2020-04-11,United States,79399.0,58257.0,True,56257.0,21142.0,23142.0,2020,192767,252307,0.4,0.4,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",54257.0,23142.0
+8910,2020-04-18,United States,77097.0,57624.0,True,55683.0,19473.0,21414.0,2020,192767,252307,0.3,0.4,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",53742.0,21414.0
+8911,2020-04-25,United States,74168.0,57046.0,True,55077.0,17122.0,19091.0,2020,192767,252307,0.3,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",53108.0,19091.0
+8912,2020-05-02,United States,69561.0,56383.0,True,54421.0,13178.0,15140.0,2020,192767,252307,0.2,0.3,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",52459.0,15140.0
+8913,2020-05-09,United States,67069.0,55807.0,True,53951.0,11262.0,13118.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",52095.0,13118.0
+8914,2020-05-16,United States,64755.0,55515.0,True,53564.0,9240.0,11191.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",51613.0,11191.0
+8915,2020-05-23,United States,61913.0,55129.0,True,53253.0,6784.0,8660.0,2020,192767,252307,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",51377.0,8660.0
+8916,2020-05-30,United States,59943.0,54954.0,True,53052.0,4989.0,6891.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",51150.0,6891.0
+8917,2020-06-06,United States,59098.0,54756.0,True,52889.0,4342.0,6209.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",51022.0,6209.0
+8918,2020-06-13,United States,58242.0,54547.0,True,52710.0,3695.0,5532.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50873.0,5532.0
+8919,2020-06-20,United States,58138.0,54639.0,True,52669.0,3499.0,5469.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50699.0,5469.0
+8920,2020-06-27,United States,58633.0,54410.0,True,52514.0,4223.0,6119.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50618.0,6119.0
+8921,2020-07-04,United States,59705.0,54257.0,True,52332.0,5448.0,7373.0,2020,192767,252307,0.1,0.1,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50407.0,7373.0
+8922,2020-07-11,United States,61322.0,54134.0,True,52205.0,7188.0,9117.0,2020,192767,252307,0.1,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50276.0,9117.0
+8923,2020-07-18,United States,62369.0,53925.0,True,52076.0,8444.0,10293.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",50227.0,10293.0
+8924,2020-07-25,United States,63241.0,53909.0,True,51912.0,9332.0,11329.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",49915.0,11329.0
+8925,2020-08-01,United States,62405.0,53675.0,True,51752.0,8730.0,10653.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",49829.0,10653.0
+8926,2020-08-08,United States,62231.0,53650.0,True,51695.0,8581.0,10536.0,2020,192767,252307,0.2,0.2,Predicted (weighted),All causes,,"Data in recent weeks are incomplete. Only 60% of death records are submitted to NCHS within 10 days of the date of death, and completeness varies by jurisdiction.",49740.0,10536.0
